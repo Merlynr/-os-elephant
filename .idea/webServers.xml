@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52d8dcee-50fe-4385-a588-b197122e8ee3" name="os-elephant">
+        <fileTransfer rootFolder="/home/merlynr" accessType="SFTP" host="192.168.119.186" port="22" sshConfigId="2226c6bd-2593-4578-8b74-55ef8679b3ec" sshConfig="root@192.168.119.186:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseSudo="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
