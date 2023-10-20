@@ -28,4 +28,6 @@ make install
 
 **需要在窗口进行相关操作**
 
+细看 https://www.cnblogs.com/hell0er/p/17141942.html
+
 [//]: # (./configure --enable-ne2000  --enable-all-optimizations  --enable-cpu-level=6 --enable-x86-64 --enable-vmx=2 --enable-pci --enable-usb --enable-usb-ohci --enable-e1000 --enable-debugger --enable-debugger-gui --enable-disasm --with-sdl --with-x11)
