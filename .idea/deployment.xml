@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="os-elephant" deleteMissingItems="true" traceLevel="BRIEF" confirmBeforeUploading="false" confirmBeforeDeletion="false" autoUploadExternalChanges="true" showEqualInSync="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="os-elephant" deleteMissingItems="true" traceLevel="BRIEF" confirmBeforeUploading="false" confirmBeforeDeletion="false" autoUploadExternalChanges="true" compareModeInSync="TIMESTAMP">
     <option name="confirmBeforeDeletion" value="false" />
     <option name="confirmBeforeUploading" value="false" />
     <serverData>
