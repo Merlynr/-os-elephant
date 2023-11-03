@@ -53,7 +53,7 @@ SECTION MBR vstart=0x7c00 ; 把起始地址编译为 0x7c00
 
     jmp $          ; 程序悬停在此
 
-    message db "hello-world!"    ; db 字节型
+    message db "1 MBR"    ; db 字节型
                           ; dw 字类型
                           ; dd 双字型
                           ; dq 四字型

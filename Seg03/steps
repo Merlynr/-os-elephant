@@ -1,0 +1,3 @@
+nasm -o call.bin 1call.asm
+ll -b call.bin
+sh /opt/os-elephant/tools/xdd.sh call.bin 0 13      //0000000: E8 06 00 EB FE 04 00 00 00 B8 34 12 C3           ..........4..
